@@ -1,8 +1,8 @@
-# Description
+### Description
 
 Predicting-the-sale-of-housing-prices
 
-# Experimental Design
+### Experimental Design
 
 Importing Necessary Libraries
 
@@ -26,7 +26,7 @@ Elastic Net Regression.
 
 
 
-# Installation Requirements
+### Installation Requirements
 
 Google colab/jupyter notebook
 
@@ -34,21 +34,21 @@ Github
 
 
 
-# Known Bugs
+### Known Bugs
 
 There are no known bugs for this project
 
 
-# Technologies Used
+### Technologies Used
 
 Python
 
 
-# Dataset
+### Dataset
 
 The dataset used can found here: http://bit.ly/IndependentProjectWeek7Dataset
 
 
-# License
+### License
 
 Copyright(c) {2022}{Damaris Muli}
